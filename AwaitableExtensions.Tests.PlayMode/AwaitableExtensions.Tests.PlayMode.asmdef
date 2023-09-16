@@ -1,0 +1,12 @@
+﻿{
+  "name": "AwaitableExtensions.Tests.PlayMode",
+  "rootNamespace": "AwaitableExtensions.Tests",
+  "references": [
+    "AwaitableExtensions"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "FluentAssertions.dll"
+  ],
+  "optionalUnityReferences": ["TestAssemblies"]
+}
